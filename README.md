@@ -12,9 +12,9 @@ LearnSphere is an e-learning platform designed to provide students with an inter
 
 ## Tech Stack
 
-* Frontend: *(Add your frontend framework, e.g., React, HTML/CSS, Bootstrap)*
-* Backend: *(Add your backend technology, e.g., Node.js, Express, Django)*
-* Database: *(Add your database, e.g., MongoDB, MySQL, PostgreSQL)*
+* Frontend: *React, HTML/CSS, Bootstrap*
+* Backend: *Node.js, Express, Django*
+* Database: *MySQL, PostgreSQL*
 
 ## Getting Started
 
